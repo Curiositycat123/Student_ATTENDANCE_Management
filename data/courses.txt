@@ -1,0 +1,6 @@
+A,OOP
+B,Physics
+C,Elec
+D,DSML
+E,Math
+F,Ecology

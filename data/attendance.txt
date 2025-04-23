@@ -1,0 +1,18 @@
+
+Yashwin|2025-04-22|C|1
+Yashwin|2025-04-22|C|1
+Yashwin|2025-04-22|C|1
+Yashwin|2025-04-22|A|1
+Yashwin|2025-04-22|A|1
+Yashwin|2025-04-22|A|1
+Yashwin|2025-04-22|F|1
+Yashwin|2025-04-22|F|0
+Yashwin|2025-04-22|F|0
+Stud1|2025-04-22|C|1
+Stud2|2025-04-22|C|0
+Stud3|2025-04-22|C|0
+Yashwin|2025-04-23 (Wednesday)|C|1
+Stud1|2025-04-23 (Wednesday)|C|1
+Stud1|2025-04-23 (Wednesday)|C|1
+Stud2|2025-04-23 (Wednesday)|C|0
+Stud3|2025-04-23 (Wednesday)|C|0

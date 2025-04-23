@@ -1,0 +1,21 @@
+MON,09:00,OOP,Room 101
+MON,10:00,Physics,Room 102
+MON,11:00,Elec,Room 103
+MON,12:00,DSML,Room 104
+
+TUE,09:00,OOP,Room 101
+TUE,10:00,Math,Room 102
+TUE,11:00,Ecology,Room 103
+
+WED,09:00,OOP,Room 101
+WED,10:00,Physics,Room 102
+WED,11:00,Elec,Room 103
+WED,12:00,DSML,Room 104
+
+THU,10:00,Math,Room 102
+THU,11:00,Ecology,Room 103
+
+FRI,09:00,OOP,Room 101
+FRI,10:00,Physics,Room 102
+FRI,11:00,DSML,Room 104
+
